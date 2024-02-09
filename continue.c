@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
+// program to find the factorial of a number 
 {
     int i,n,fac;
     printf("enter the value of n");
