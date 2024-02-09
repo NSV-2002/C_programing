@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
+//to check the student is pass or fail
 {
     int marks;
     printf("enter your marks");

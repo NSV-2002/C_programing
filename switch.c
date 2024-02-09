@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
+// to show the day of the week
 {
     int day;
     printf("enter the day (1-7) : ");

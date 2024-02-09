@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
+// for cheking the persons eligiblity to vote
 {
     int age;
     printf("enter your age");
