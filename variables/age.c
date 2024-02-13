@@ -5,6 +5,7 @@ void main()
     int age;
     printf("enter your age");
     scanf("%d",&age);
+    // too check age
     if(age>=18)
     {
       printf("is an adult\n");
